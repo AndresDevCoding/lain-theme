@@ -1,0 +1,8 @@
+Inside the terminal, type: notepad $PROFILE
+
+In the notepad that pops up (or if it asks you to create a new one, click "Yes"), paste the following:
+
+function prompt {
+    "· "
+}
+clear
